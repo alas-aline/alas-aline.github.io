@@ -60,7 +60,7 @@ Education:
     summary: |
       GPA: 5.0/5.0
 
-# Навыки
+# Skills
 # Add your own SVG icons to `assets/media/icons/`
 Skills:
   - name: Технические навыки
@@ -98,7 +98,7 @@ Languages:
   - name: Русский
     percent: 100
 
-# Награды
+# Awards
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
