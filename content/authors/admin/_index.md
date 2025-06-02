@@ -36,12 +36,12 @@ profiles:
   - icon: brands/github
     url: https://github.com/alas-aline
 
-interests:
+Интересы:
   - Искусственный интеллект
   - Информационные науки
   - Иностранные языки
 
-education:
+Образование:
   - area: Бакалавриат
     institution: РУДН
     date_start: 2024-09-01
@@ -62,8 +62,8 @@ education:
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
-skills:
-  - name: Technical Skills
+Навыки:
+  - name: Технические навыки
     items:
       - name: Python
         description: ''
@@ -73,7 +73,7 @@ skills:
         description: ''
         percent: 30
         icon: chart-bar
-  - name: Hobbies
+  - name: Хобби
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
@@ -90,7 +90,7 @@ skills:
         percent: 80
         icon: camera
 
-languages:
+Языки:
   - name: Английский
     percent: 80
   - name: Немецкий
@@ -98,11 +98,11 @@ languages:
   - name: Русский
     percent: 100
 
-# Awards.
+# Награды.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
-awards:
+Награды:
   - title: 100 баллов за ЕГЭ
     date: '2024-07-02'
     awarder: Губернатор Новосибирской области
@@ -117,6 +117,6 @@ awards:
      Я считаю, что получила эту медаль не столько за знание, сколько за навык коммуникации с людьми. Не просто школа, а школа жизни!
 ---
 
-## About Me
+## Обо мне
 
 Привет! Я Трусова Алина, студент РУДН, направление "Компьютерные и информационные науки". Я занимаюсь научной работой, учусь, а свободное время занимаюсь переводом и копирайтингом различных текстов. Хочу выразить большую благодарность моей лучшей подруге за поддержку, благодаря которой я справлялась с трудностями первого курса.
