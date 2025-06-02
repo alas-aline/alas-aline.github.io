@@ -41,7 +41,7 @@ Interests:
   - Информационные науки
   - Иностранные языки
 
-образование:
+## Образование:
   - area: Бакалавриат
     institution: РУДН
     date_start: 2024-09-01
@@ -60,9 +60,9 @@ Interests:
     summary: |
       GPA: 5.0/5.0
 
-# Skills
+# Навыки
 # Add your own SVG icons to `assets/media/icons/`
-Навыки:
+Skills:
   - name: Технические навыки
     items:
       - name: Python
@@ -90,7 +90,7 @@ Interests:
         percent: 80
         icon: camera
 
-Языки:
+Languages:
   - name: Английский
     percent: 80
   - name: Немецкий
@@ -98,11 +98,11 @@ Interests:
   - name: Русский
     percent: 100
 
-# Награды.
+# Награды
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
-Награды:
+Awards:
   - title: 100 баллов за ЕГЭ
     date: '2024-07-02'
     awarder: Губернатор Новосибирской области
