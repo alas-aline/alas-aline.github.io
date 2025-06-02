@@ -1,7 +1,7 @@
 ---
-title: 📈 Communicate your results effectively with the best data visualizations
-summary: Use popular tools such as Plotly, Mermaid, and data frames.
-date: 2023-10-25
+title: 🤡 О том, как прошла моя неделя
+summary: Я сделала сайт только сейчас, зато смотрите, какой хорошенький!
+date: 2025-03-20
 authors:
   - admin
 tags:
