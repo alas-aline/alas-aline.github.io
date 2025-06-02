@@ -36,12 +36,12 @@ profiles:
   - icon: brands/github
     url: https://github.com/alas-aline
 
-Интересы:
+Interests:
   - Искусственный интеллект
   - Информационные науки
   - Иностранные языки
 
-Образование:
+образование:
   - area: Бакалавриат
     institution: РУДН
     date_start: 2024-09-01
