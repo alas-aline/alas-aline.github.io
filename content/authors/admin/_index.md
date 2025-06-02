@@ -49,7 +49,7 @@ profiles:
 interests:
   - Artificial Intelligence
   - Computational Linguistics
-  - Information Retrieval
+  - Компьютерная алгебра
 
 education:
   - area: PhD Artificial Intelligence
