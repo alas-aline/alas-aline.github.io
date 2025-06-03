@@ -9,6 +9,7 @@ tags:
 image:
   caption: "кринж картинка"
   focal_point: "Center"
+  preview_only: true
   filename: "1.jpg"
 ---
 
