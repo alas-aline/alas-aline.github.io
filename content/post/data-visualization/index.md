@@ -9,7 +9,7 @@ tags:
   - Hugo Blox
   - Markdown
 image:
-  caption:  ![1.jpg](image/placeimg_800_600_tech.jpg)
+  caption:  ![1.jpg]()
 ---
 
 Я болею, мне очень плохо, и я напишу о том, как прошла моя неделя, чтобы меня пожалели.
