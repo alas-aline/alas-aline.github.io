@@ -1,5 +1,7 @@
 ---
-title: 'Experience'
+title: 'Опыт'
+components:
+  education: false
 date: 2023-10-24
 type: landing
 
