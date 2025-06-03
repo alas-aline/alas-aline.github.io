@@ -41,6 +41,25 @@ Interests:
   - Информационные науки
   - Иностранные языки
 
+Education:
+  - area: Бакалавриат
+    institution: РУДН
+    date_start: 2024-09-01
+    summary: |
+      Научных работ ещё не публиковала, но всё впереди! Посещаю научные конференции.
+  - area: Среднее общее образование
+    institution: МАОУ "Лицей №6" г. Бердск
+    date_start: 2022-09-01
+    date_end: 2024-05-27
+    summary: |
+      GPA: 4.9/5.0
+  - area: Основное общее образование
+    institution: МАОУ "Лицей №6" г. Бердск
+    date_start: 2017-09-01
+    date_end: 2022-05-27
+    summary: |
+      GPA: 5.0/5.0
+
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 Skills:
