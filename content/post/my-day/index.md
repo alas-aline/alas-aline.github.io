@@ -5,11 +5,10 @@ date: 2025-03-20
 authors:
   - admin
 tags:
-  - Hugo
-  - Hugo Blox
-  - Markdown
+  - Дневник
 image:
   caption: "кринж картинка"
+  focal_point: "Center"
   filename: "1.jpg"
 ---
 
