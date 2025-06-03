@@ -13,11 +13,7 @@ sections:
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-      text: ""
-      # Show a call-to-action button under your biography? (optional)
-      button:
-        text: Download CV
-        url: uploads/resume.pdf
+      text: "alas-aline"
     design:
       css_class: dark
       background:
@@ -35,7 +31,7 @@ sections:
       title: '🎯 Моя цель'
       subtitle: ''
       text: |-
-        Блог ведётся для нытья, приколюх и 4 по Операционным системам. 
+        Блог ведётся для нытья, приколюх и 4 по Операционным системам. Попробую рассказать что-то забавное, если времени хватит, поэтому не переключайтесь!
     design:
       columns: '1'
   - block: collection
@@ -72,7 +68,7 @@ sections:
   - block: collection
     id: news
     content:
-      title: Recent News
+      title: "Новости"
       subtitle: ''
       text: ''
       # Page type to display. E.g. post, talk, publication...
