@@ -9,12 +9,12 @@ tags:
   - Hugo Blox
   - Markdown
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
+  caption:  ![1.jpg](image/placeimg_800_600_tech.jpg)
 ---
 
-Hugo Blox is designed to give technical content creators a seamless experience. You can focus on the content and Hugo Blox handles the rest.
+Я болею, мне очень плохо, и я напишу о том, как прошла моя неделя, чтобы меня пожалели.
 
-Use popular tools such as Plotly, Mermaid, and data frames.
+Читайте только здесь и только сегодня!
 
 ## Charts
 
