@@ -29,7 +29,7 @@ organizations:
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
-profiles:
+social:
   - icon: at-symbol
     url: 'mailto:11322467158@pfur.ru'
     label: E-mail Me
