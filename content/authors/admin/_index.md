@@ -34,45 +34,30 @@ social:
   - icon: envelope
     icon_pack: fas
     link: "mailto:11322467158@pfur.ru"
-    label: "Email"
+  - icon: etsy
+    icon_pack: fas
+    link: "https://www.elibrary.ru/defaultx.asp"
+  - icon: graduation-cap
+    icon_pack: fas
+    link: "https://scholar.google.com/citations?user=2SlEGnYAAAAJ"
   - icon: github
     icon_pack: fab
     link: "https://github.com/alas-aline"
-    label: "GitHub"
-  - icon: book
-    icon_pack: fas
-    link: "https://www.elibrary.ru"
-    label: "eLibrary"
-  - icon: graduation-cap
-    icon_pack: fas
-    link: "https://scholar.google.com"
-    label: "Google Scholar"
-  - icon: orcid
-    icon_pack: fab
-    link: "https://orcid.org"
-    label: "ORCID"
-  - icon: book-open
+  - icon: mendeley
     icon_pack: fas
     link: "https://www.mendeley.com"
-    label: "Mendeley"
-
-  # 7. ResearchGate (сетка)
-  - icon: share-alt
+  - icon: orcid
+    icon_pack: fab
+    link: "https://orcid.org/0009-0008-5140-5629"
+  - icon: linkedin
     icon_pack: fas
-    link: "https://www.researchgate.net"
-    label: "ResearchGate"
-
-  # 8. Academia.edu (здание)
-  - icon: university
+    link: "https://www.researchgate.net/profile/Alina-Trusova"
+  - icon: autoprefixer
     icon_pack: fas
-    link: "https://academia.edu"
-    label: "Academia.edu"
-
-  # 9. arXiv (архивная коробка)
+    link: "https://independent.academia.edu/ТрусоваАлина"
   - icon: archive
     icon_pack: fas
     link: "https://arxiv.org"
-    label: "arXiv"
 
 Interests:
   - Искусственный интеллект
