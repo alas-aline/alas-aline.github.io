@@ -30,34 +30,16 @@ organizations:
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 # В params.yaml или config/_default/params.yaml
-social:
-  - icon: envelope
-    icon_pack: fas
-    link: "mailto:11322467158@pfur.ru"
-  - icon: etsy
-    icon_pack: fas
-    link: "https://www.elibrary.ru/defaultx.asp"
-  - icon: graduation-cap
-    icon_pack: fas
-    link: "https://scholar.google.com/citations?user=2SlEGnYAAAAJ"
-  - icon: github
-    icon_pack: fab
-    link: "https://github.com/alas-aline"
-  - icon: mendeley
-    icon_pack: fas
-    link: "https://www.mendeley.com"
-  - icon: orcid
-    icon_pack: fab
-    link: "https://orcid.org/0009-0008-5140-5629"
-  - icon: linkedin
-    icon_pack: fas
-    link: "https://www.researchgate.net/profile/Alina-Trusova"
-  - icon: autoprefixer
-    icon_pack: fas
-    link: "https://independent.academia.edu/ТрусоваАлина"
-  - icon: archive
-    icon_pack: fas
-    link: "https://arxiv.org"
+profiles:
+  - icon: at-symbol
+    url: 'mailto:1132246715@pfur.ru'
+    label: E-mail Me
+  - icon: brands/github
+    url: https://github.com/alas-aline
+  - icon: brands/google-scholar
+    url: https://scholar.google.com/scholar?scilib=1&scioq=торт&hl=ru&as_sdt=0,5
+  - icon: brands/orcid
+    url: https://orcid.org/0009-0000-3999-7045
 
 Interests:
   - Искусственный интеллект
