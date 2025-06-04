@@ -35,20 +35,24 @@ profiles:
     label: E-mail Me
   - icon: brands/github
     url: https://github.com/alas-aline
-  - icon: e-solid
-    url: https://www.elibrary.ru/defaultx.asp
-  - icon: graduation-cap-solid
-    url: https://scholar.google.com/citations?view_op=list_works&hl=ru&user=2SlEGnYAAAAJ
-  - icon: orcid-brands
-    url: https://orcid.org/my-orcid?orcid=0009-0008-5140-5629&justRegistered=true
-  - icon: mendeley-brands
-    url: https://www.mendeley.com/search/
-  - icon: researchgate-brands
-    url: https://www.researchgate.net/profile/Alina-Trusova?ev=hdr_xprf&_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6InNpZ251cCIsInBhZ2UiOiJob21lIiwicG9zaXRpb24iOiJnbG9iYWxIZWFkZXIifX0
-  - icon: a-solid
+  - icon: media/icons/graduation-cap-solid.svg
+    url: https://scholar.google.com/citations?user=2SlEGnYAAAAJ
+    label: Google Scholar
+  - icon: media/icons/orcid-brands.svg
+    url: https://orcid.org/0009-0008-5140-5629
+    label: ORCID
+  - icon: media/icons/mendeley-brands.svg
+    url: https://www.mendeley.com
+    label: Mendeley
+  - icon: media/icons/researchgate-brands.svg
+    url: https://www.researchgate.net/profile/Alina-Trusova
+    label: ResearchGate
+  - icon: media/icons/a-solid.svg
     url: https://independent.academia.edu/ТрусоваАлина
-  - icon: box-archive-solid
-    url: https://arxiv.org/user/
+    label: Academia.edu
+  - icon: media/icons/box-archive-solid.svg
+    url: https://arxiv.org
+    label: arXiv
 
 Interests:
   - Искусственный интеллект
