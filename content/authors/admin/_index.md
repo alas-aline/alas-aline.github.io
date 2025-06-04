@@ -29,30 +29,50 @@ organizations:
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
+# В params.yaml или config/_default/params.yaml
 social:
-  - icon: at-symbol
-    url: 'mailto:11322467158@pfur.ru'
-    label: E-mail Me
-  - icon: brands/github
-    url: https://github.com/alas-aline
-  - icon: media/icons/graduation-cap-solid.svg
-    url: https://scholar.google.com/citations?user=2SlEGnYAAAAJ
-    label: Google Scholar
-  - icon: media/icons/orcid-brands.svg
-    url: https://orcid.org/0009-0008-5140-5629
-    label: ORCID
-  - icon: media/icons/mendeley-brands.svg
-    url: https://www.mendeley.com
-    label: Mendeley
-  - icon: media/icons/researchgate-brands.svg
-    url: https://www.researchgate.net/profile/Alina-Trusova
-    label: ResearchGate
-  - icon: media/icons/a-solid.svg
-    url: https://independent.academia.edu/ТрусоваАлина
-    label: Academia.edu
-  - icon: media/icons/box-archive-solid.svg
-    url: https://arxiv.org
-    label: arXiv
+  - icon: envelope
+    icon_pack: fas
+    link: "mailto:11322467158@pfur.ru"
+    label: "Email"
+  - icon: github
+    icon_pack: fab
+    link: "https://github.com/alas-aline"
+    label: "GitHub"
+  - icon: book
+    icon_pack: fas
+    link: "https://www.elibrary.ru"
+    label: "eLibrary"
+  - icon: graduation-cap
+    icon_pack: fas
+    link: "https://scholar.google.com"
+    label: "Google Scholar"
+  - icon: orcid
+    icon_pack: fab
+    link: "https://orcid.org"
+    label: "ORCID"
+  - icon: book-open
+    icon_pack: fas
+    link: "https://www.mendeley.com"
+    label: "Mendeley"
+
+  # 7. ResearchGate (сетка)
+  - icon: share-alt
+    icon_pack: fas
+    link: "https://www.researchgate.net"
+    label: "ResearchGate"
+
+  # 8. Academia.edu (здание)
+  - icon: university
+    icon_pack: fas
+    link: "https://academia.edu"
+    label: "Academia.edu"
+
+  # 9. arXiv (архивная коробка)
+  - icon: archive
+    icon_pack: fas
+    link: "https://arxiv.org"
+    label: "arXiv"
 
 Interests:
   - Искусственный интеллект
